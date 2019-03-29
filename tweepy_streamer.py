@@ -1,11 +1,3 @@
-'''
-pip3 install pandas
-pip3 install numpy
-pip3 install tweepy
-
-Credits: https://www.youtube.com/watch?v=wlnx-7cm4Gg
-'''
-
 from tweepy import API
 from tweepy import Cursor
 from tweepy.streaming import StreamListener
@@ -100,7 +92,7 @@ class TwitterListener(StreamListener):
             print()
 
 
-            '''CODE HERE'''
+            '''MORE CODE HERE'''
 
             # Save to file
             with open(self.fetched_tweets_filename, 'a') as tf:

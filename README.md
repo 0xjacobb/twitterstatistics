@@ -1,6 +1,14 @@
 # Twitter Statistics
 Playground for Twitter API
 
+# Code Status
+Under construction
+
+# Needed Dependencies
+* pip3 install tweepy   
+* (ONLY WHEN CLIENT CODE USED) pip3 install pandas   
+* (ONLY WHEN CLIENT CODE USED) pip3 install numpy
+
 ## Credits and Sources
 * [Twitter Developer Documentation](https://developer.twitter.com/#)   
 * [Tweepy Documentation](http://docs.tweepy.org/en/v3.4.0/index.html)   
